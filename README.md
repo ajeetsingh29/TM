@@ -1,0 +1,2 @@
+# TM
+thinking machines example
