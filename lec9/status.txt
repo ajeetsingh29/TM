@@ -1,0 +1,7 @@
+Good evening saidi,
+The following is the status for sprint 2 tables
+dim_product_batch-->is being recreated
+dim_vendor-->completed for all sap_systems and all axepta systems are having errors while re-executing the procedures
+dim_inventory_check-->only late arriving dimension check is remaing 
+dim_storage_location-->data harmonisation and late arriving dimension check is remaing 
+dim_bill_of_material-->data harmonisation and late arriving dimension check is remaing

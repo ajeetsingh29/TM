@@ -1,0 +1,8 @@
+var hr=require("./hr")
+var d1= new hr.Designation(101,"Manager")
+var d2 = new hr.Designation(102,"Clerk")
+var dm= new hr.DesignationManager()
+dm.add(d1)
+dm.add(d2)
+var designations=dm.getAll()
+for( var i of designations )console.log(i)
